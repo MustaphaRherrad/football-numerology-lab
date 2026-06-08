@@ -6,6 +6,8 @@ L’objectif initial est de tester empiriquement si des variables dérivées des
 
 Le projet construit aussi une base football historique propre et réutilisable pour d’autres analyses ML.
 
+Ce dépôt construit une base historique de matchs de football à partir de données publiques et explore des variables contextuelles dérivées des dates. Les expérimentations avancées, backtests ROI et signaux propriétaires ne sont pas inclus dans la version publique.
+
 ## Structure
 
 - `src/` : scripts Python réutilisables.
@@ -13,6 +15,8 @@ Le projet construit aussi une base football historique propre et réutilisable p
 - `docs/` : notes méthodologiques.
 - `data/` : données locales non versionnées.
 - `outputs/` : sorties générées non versionnées.
+- `src/private/` : scripts Python propriétaire non publiés.
+
 
 ## Données
 
