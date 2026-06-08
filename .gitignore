@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environnement virtuel
+.venv/
+venv/
+env/
+
+# Données
+data/raw/
+data/interim/
+data/processed/
+data/features/
+data/catalog/
+data/reports/
+
+# Sorties
+outputs/
+
+# Système
+.DS_Store
+Thumbs.db

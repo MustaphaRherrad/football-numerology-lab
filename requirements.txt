@@ -1,0 +1,14 @@
+pandas
+numpy
+requests
+beautifulsoup4
+lxml
+pyarrow
+duckdb
+matplotlib
+scikit-learn
+tqdm
+jupyter
+ipykernel
+python-dotenv
+scipy
